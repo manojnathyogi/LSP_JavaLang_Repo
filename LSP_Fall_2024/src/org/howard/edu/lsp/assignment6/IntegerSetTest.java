@@ -7,7 +7,6 @@ import static org.junit.Assert.assertTrue;
 
 import org.howard.edu.lsp.assignment6.IntegerSetException;
 import org.junit.Test;
-import org.junit.jupiter.api.DisplayName;
 
 public class IntegerSetTest {
 
